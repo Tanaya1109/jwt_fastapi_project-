@@ -3,7 +3,7 @@
 A simple property rental management website using FastAPI, JWT login, SQLite, HTML, CSS, and JavaScript.
 
 You can manage property listings, tenant details, rental agreement dates, monthly rent, payment status, and notes.
-
+Property Rental Management System is a FastAPI-based web application that provides secure user authentication using JWT tokens and allows users to manage rental properties through complete CRUD operations. The project is built using FastAPI, SQLAlchemy, SQLite, bcrypt, and JWT authentication, and is deployed on Render.
 ## Setup
 
 ```powershell
